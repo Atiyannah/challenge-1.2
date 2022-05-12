@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* changed height of hero to match mock up */
 .hero {
     height: 900px;
     width: 100%;
@@ -86,22 +87,26 @@ p {
     background-color: #2589bd;
 }
 
+/* consolidated benefits div styles */
 .benefits div {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* consolidated benefits h3 styles */
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* consolidated benefits img styles */
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* consolidated content div styles */
 .content div {
     margin-bottom: 20px;
     padding: 50px;
@@ -111,10 +116,12 @@ p {
     color: #ffffff;
 }
 
+/* consolidated content img styles */
 .content img {
     max-height: 200px;
 }
 
+/* consolidated content h2 styles */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
